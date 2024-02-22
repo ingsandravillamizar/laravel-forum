@@ -1,0 +1,19 @@
+Foro en laravel  breeze
+
+Instalacion:
+
+        me ubico en www    laravel new forum      composer require laravel/breeze  -- dev 
+
+        ó lo puedo hacer en un solo comando    laravel new forum --breeze
+
+usare esta:
+        php artisan breeze:install
+        Opciones que debo seleccionar
+        blade
+        dark
+        pruebas no
+
+
+        Configurar base de datos en .env
+
+        php artisan migrate
