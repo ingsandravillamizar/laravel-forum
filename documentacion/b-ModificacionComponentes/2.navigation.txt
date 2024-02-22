@@ -1,0 +1,1 @@
+cambiamos color de texto, color de fondo, color hover, quitamos logo y cambiamos dashboard por forum 

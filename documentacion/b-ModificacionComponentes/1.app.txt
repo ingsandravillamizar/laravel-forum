@@ -1,0 +1,5 @@
+Se modifica  
+    resources-views-layouts   app.blade.php
+
+        Ocupar todo el alto de la pantalla y gestionar gradiente
+

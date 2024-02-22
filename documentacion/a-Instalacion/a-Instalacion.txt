@@ -17,3 +17,6 @@ usare esta:
         Configurar base de datos en .env
 
         php artisan migrate
+
+        php artisan serve
+        npm run dev
